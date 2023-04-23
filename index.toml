@@ -36,6 +36,10 @@ hash = "775ba9db8af593510ab38e497e4bed1aa5dcd7cae8cdd1d6a2dbe693c28de8fa"
 metafile = true
 
 [[files]]
+file = "mods/config/hello.toml"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
 file = "mods/corgilib.pw.toml"
 hash = "846d2a198b09ed511eb04081bab7643c234148cfd0ff5e18e0d583fdfe5cc00d"
 metafile = true
@@ -79,6 +83,10 @@ metafile = true
 file = "mods/createaddition.pw.toml"
 hash = "da07989d349e20d553b876548e113f2ab57fb42bf6ab9647f6520a3aeba74959"
 metafile = true
+
+[[files]]
+file = "mods/defaultconfigs/test.toml"
+hash = "d30d9125c4efcac8f897c04ccef3ed622e094a179ced59ed01c22badd62ca8ae"
 
 [[files]]
 file = "mods/delightful.pw.toml"
