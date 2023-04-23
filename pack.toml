@@ -1,0 +1,13 @@
+name = "Danny's Awesome Modpack"
+author = "Danny"
+version = "0.0.1"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "7e8fa9f718b3fecc01990146166a7ef06e3ac3ab7e830a02157f5665072fd1e8"
+
+[versions]
+forge = "43.2.8"
+minecraft = "1.19.2"
