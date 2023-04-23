@@ -1,12 +1,12 @@
 hash-format = "sha256"
 
 [[files]]
-file = "config/hello.toml"
-hash = "2ae67f5ec4fc5790877ada0496914a0eda3632ea3c7872e1d812621859bfc61b"
+file = "config/voicechat/voicechat-server.properties"
+hash = "fb90e76b75b6205492f3def4571a857cd88bd9c098dace48380a546955f2eb3d"
 
 [[files]]
-file = "defaultconfigs/test.toml"
-hash = "d30d9125c4efcac8f897c04ccef3ed622e094a179ced59ed01c22badd62ca8ae"
+file = "defaultconfigs/create-server.toml"
+hash = "7cc7f88295c1b9eef5337c70061188f9f815bcb654706c3f3090e85266a6bf76"
 
 [[files]]
 file = "mods/antighost.pw.toml"
