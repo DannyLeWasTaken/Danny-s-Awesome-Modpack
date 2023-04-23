@@ -13,6 +13,10 @@ file = "defaultconfigs/create-server.toml"
 hash = "7cc7f88295c1b9eef5337c70061188f9f815bcb654706c3f3090e85266a6bf76"
 
 [[files]]
+file = "defaultconfigs/solcarrot-server.toml"
+hash = "c4c1fd82d36a2ce48af688d159766525fea40ccbf50cbb5bbd56d11aa0478dac"
+
+[[files]]
 file = "mods/antighost.pw.toml"
 hash = "7961a7438ef8b4c33f7b356319bd338bb8db592da949e846be54314610dbeb79"
 metafile = true
@@ -245,6 +249,11 @@ metafile = true
 [[files]]
 file = "mods/sound-physics-remastered.pw.toml"
 hash = "7b4458a7677e9fa9ba063949798313169aa34caad56cd69b0d529c8287e4b325"
+metafile = true
+
+[[files]]
+file = "mods/spice-of-life-carrot-edition.pw.toml"
+hash = "6d7c5048a2c500d8c6198aaf1f9f0673f7a8621763b2704d0b3e7563fe25768b"
 metafile = true
 
 [[files]]
