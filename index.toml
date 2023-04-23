@@ -141,6 +141,11 @@ hash = "fde0369eaad4e6f507b0e1d238b131877b9a291deff0715c9f1b5fb397aa176a"
 metafile = true
 
 [[files]]
+file = "mods/joy-of-painting.pw.toml"
+hash = "dd89b57f885ecc5c3163b28a97a48c6925e9a17d0450482cb8fe4dd70cc55c78"
+metafile = true
+
+[[files]]
 file = "mods/just-enough-resources-jer.pw.toml"
 hash = "25b7d53f3cedff407d47cd8256a062b721354bb41012531fc3be13368b02abfd"
 metafile = true
@@ -163,6 +168,11 @@ metafile = true
 [[files]]
 file = "mods/moonlight.pw.toml"
 hash = "8cea3295ac626f9c9bdedda866e5fc4ab3f173827ea4ca9142b055d8aa4e647b"
+metafile = true
+
+[[files]]
+file = "mods/music-maker-mod.pw.toml"
+hash = "ea26acf9bc8fd737590123f88b459a12d87bcdab22a6f4c5802f5df9c5741711"
 metafile = true
 
 [[files]]
