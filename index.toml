@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/extendedgears-common.toml"
+hash = "67f41f23148a9a24a72bfb9ba5e098520cfc7d45d8e15710f66ed8bdde8453fc"
+
+[[files]]
 file = "config/voicechat/voicechat-server.properties"
 hash = "fb90e76b75b6205492f3def4571a857cd88bd9c098dace48380a546955f2eb3d"
 
