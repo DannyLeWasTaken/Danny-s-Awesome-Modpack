@@ -1,6 +1,14 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/hello.toml"
+hash = "2ae67f5ec4fc5790877ada0496914a0eda3632ea3c7872e1d812621859bfc61b"
+
+[[files]]
+file = "defaultconfigs/test.toml"
+hash = "d30d9125c4efcac8f897c04ccef3ed622e094a179ced59ed01c22badd62ca8ae"
+
+[[files]]
 file = "mods/antighost.pw.toml"
 hash = "7961a7438ef8b4c33f7b356319bd338bb8db592da949e846be54314610dbeb79"
 metafile = true
@@ -34,10 +42,6 @@ metafile = true
 file = "mods/cloth-config.pw.toml"
 hash = "775ba9db8af593510ab38e497e4bed1aa5dcd7cae8cdd1d6a2dbe693c28de8fa"
 metafile = true
-
-[[files]]
-file = "mods/config/hello.toml"
-hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
 file = "mods/corgilib.pw.toml"
@@ -83,10 +87,6 @@ metafile = true
 file = "mods/createaddition.pw.toml"
 hash = "da07989d349e20d553b876548e113f2ab57fb42bf6ab9647f6520a3aeba74959"
 metafile = true
-
-[[files]]
-file = "mods/defaultconfigs/test.toml"
-hash = "d30d9125c4efcac8f897c04ccef3ed622e094a179ced59ed01c22badd62ca8ae"
 
 [[files]]
 file = "mods/delightful.pw.toml"
