@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/bettercombat/client.json5"
+hash = "b1448687f76ae507472b7cc82929b807c896a2506f97c2d4b094f9be9445efe7"
+
+[[files]]
 file = "config/dynview-common.toml"
 hash = "1e692e36b7b13ab26f2f447ef8b145b0840c285b758b220e82b3aa1592f1d005"
 
@@ -62,11 +66,6 @@ metafile = true
 [[files]]
 file = "mods/balm.pw.toml"
 hash = "04aebaf91c1d6eb8a50dcbe7b229d56af0e71a2fd09b0729c1ac330b8f47c199"
-metafile = true
-
-[[files]]
-file = "mods/better-combat.pw.toml"
-hash = "59089f654ca46ed99c21cf444b2095892096cff05a73d406bb821b467b26a842"
 metafile = true
 
 [[files]]
@@ -280,11 +279,6 @@ hash = "ea26acf9bc8fd737590123f88b459a12d87bcdab22a6f4c5802f5df9c5741711"
 metafile = true
 
 [[files]]
-file = "mods/mutil.pw.toml"
-hash = "39f4bf26ebf5e0b985d1857dcd3f1fc4cc38093b08c2835a057e41e1a6aa21b3"
-metafile = true
-
-[[files]]
 file = "mods/no-chat-reports.pw.toml"
 hash = "9055b4a92e2ea4ad8661c226f549040eb48ae535070942a3a95b019c08ca70f6"
 metafile = true
@@ -397,26 +391,6 @@ metafile = true
 [[files]]
 file = "mods/terrablender.pw.toml"
 hash = "b49aeab89f0272bb8bbce57a78dfa561df908c5dcd320635a4736899f1e83e57"
-metafile = true
-
-[[files]]
-file = "mods/tetra.pw.toml"
-hash = "653e0d33a5ff0b1949e19ad36b271f9a81e628b8e4783c42e27a2bcbee6f1b96"
-metafile = true
-
-[[files]]
-file = "mods/tetranomicon.pw.toml"
-hash = "e23c10b32e16e7aac709571edf10f54cc1e11bbe8ae23c86a330a3ca84262401"
-metafile = true
-
-[[files]]
-file = "mods/tetras-delight.pw.toml"
-hash = "40f155a7a9d0999e4141720aec4e1d23c1019e17ae745b67975160006348984d"
-metafile = true
-
-[[files]]
-file = "mods/tetratic-combat.pw.toml"
-hash = "3b06afd1e63e37b80d4f769a15e327b9a573ab88e44766c464ae031079805676"
 metafile = true
 
 [[files]]
