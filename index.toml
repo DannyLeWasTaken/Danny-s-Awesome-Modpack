@@ -1,8 +1,16 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/dynview-common.toml"
+hash = "1e692e36b7b13ab26f2f447ef8b145b0840c285b758b220e82b3aa1592f1d005"
+
+[[files]]
 file = "config/extendedgears-common.toml"
 hash = "67f41f23148a9a24a72bfb9ba5e098520cfc7d45d8e15710f66ed8bdde8453fc"
+
+[[files]]
+file = "config/terrablender.toml"
+hash = "acd11ba2c9e0f323b5bc123d9a35b2d4e100862b745ffc5f2b0d9ae36554a327"
 
 [[files]]
 file = "config/voicechat/voicechat-server.properties"
@@ -42,8 +50,28 @@ hash = "6d494e07259ad63215a5057af1885d5fa47bd0986afe4a4e56e8b22e9c6b664f"
 metafile = true
 
 [[files]]
+file = "mods/art-of-forging-a-tetra-addon.pw.toml"
+hash = "3520ec5bccb708ccef9f875f3c2094226ce2c76a56b6457f2b12c84a41039826"
+metafile = true
+
+[[files]]
 file = "mods/autoreglib.pw.toml"
 hash = "2264acfbd388023f4c11b06b18e1a8b79b2b078e9fbf4cc38b31e4cb31c653dd"
+metafile = true
+
+[[files]]
+file = "mods/balm.pw.toml"
+hash = "04aebaf91c1d6eb8a50dcbe7b229d56af0e71a2fd09b0729c1ac330b8f47c199"
+metafile = true
+
+[[files]]
+file = "mods/better-combat.pw.toml"
+hash = "59089f654ca46ed99c21cf444b2095892096cff05a73d406bb821b467b26a842"
+metafile = true
+
+[[files]]
+file = "mods/better-third-person.pw.toml"
+hash = "61646bf3738b16c07c6cee3de35afe9a016eb8ae031e2183e4b17c2090619741"
 metafile = true
 
 [[files]]
@@ -59,6 +87,21 @@ metafile = true
 [[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "775ba9db8af593510ab38e497e4bed1aa5dcd7cae8cdd1d6a2dbe693c28de8fa"
+metafile = true
+
+[[files]]
+file = "mods/combat-roll.pw.toml"
+hash = "8cc83e5aea39258ea9d5f5c71f305e1175c2269f500c9d993c1e60f0008f8454"
+metafile = true
+
+[[files]]
+file = "mods/connectedness.pw.toml"
+hash = "d5de9555fc37c637a00004892537b93d71f4af154fc0a6db0330f1e36f06204e"
+metafile = true
+
+[[files]]
+file = "mods/controlling.pw.toml"
+hash = "a94bec93c6e2f350d4bfd94d6f557fca51ef4358aa4a714e87816243537a6623"
 metafile = true
 
 [[files]]
@@ -107,8 +150,18 @@ hash = "da07989d349e20d553b876548e113f2ab57fb42bf6ab9647f6520a3aeba74959"
 metafile = true
 
 [[files]]
+file = "mods/creativecore.pw.toml"
+hash = "61ce95654a33c10e7c54c121f720c3bb58af8d99b2ba9521ae08556f629b6cc1"
+metafile = true
+
+[[files]]
 file = "mods/delightful.pw.toml"
 hash = "8efc269dee36af1fbcba2a0d29f697b710af95c11dcc466a1f4c514c24a2a47d"
+metafile = true
+
+[[files]]
+file = "mods/dynamic-view.pw.toml"
+hash = "67a2c58d47eb55966dfa6b7687d29997e0ea2b2ebd57e135305890a4995a9141"
 metafile = true
 
 [[files]]
@@ -142,6 +195,11 @@ hash = "8814533ec5535f3eeaecb1b6fc8e97c4e6e85546de82428e6824b98855d60d0d"
 metafile = true
 
 [[files]]
+file = "mods/farsight.pw.toml"
+hash = "93c7e8b8746b2fb88a262b13234ad6d1800aa54264d12ae2fa5ddbd8e2b85a14"
+metafile = true
+
+[[files]]
 file = "mods/ferrite-core.pw.toml"
 hash = "ed6f0207affbcdbc338b0af19a596451230a25255f425b3b4670a0104368c95c"
 metafile = true
@@ -154,6 +212,11 @@ metafile = true
 [[files]]
 file = "mods/geckolib.pw.toml"
 hash = "cf303e609b0beaf097122eecfa869d21be642e22465021f4f5aa0fa38c72b119"
+metafile = true
+
+[[files]]
+file = "mods/hals-enhanced-biomes.pw.toml"
+hash = "186421a447842734b3c8482361c5b161913ac208c65792f10d2a52af99eb0947"
 metafile = true
 
 [[files]]
@@ -192,6 +255,11 @@ hash = "ddfd557d336761ad7930548f24322cb8c771aa1e0187b13a51dea268b9690d3e"
 metafile = true
 
 [[files]]
+file = "mods/login-protection.pw.toml"
+hash = "56b6d09fb2ccaceb7bf7f5ed03df651733f92f369220336de4ec9cbe002e88f3"
+metafile = true
+
+[[files]]
 file = "mods/memoryleakfix.pw.toml"
 hash = "ecaf5c678d92a4cfa57369fec17abd9e34c44bed705f1fcdd1eb1caa4a791a4d"
 metafile = true
@@ -212,6 +280,11 @@ hash = "ea26acf9bc8fd737590123f88b459a12d87bcdab22a6f4c5802f5df9c5741711"
 metafile = true
 
 [[files]]
+file = "mods/mutil.pw.toml"
+hash = "39f4bf26ebf5e0b985d1857dcd3f1fc4cc38093b08c2835a057e41e1a6aa21b3"
+metafile = true
+
+[[files]]
 file = "mods/no-chat-reports.pw.toml"
 hash = "9055b4a92e2ea4ad8661c226f549040eb48ae535070942a3a95b019c08ca70f6"
 metafile = true
@@ -227,6 +300,16 @@ hash = "0731235f6cb600e85d08dee3d1d9f454a218b6b152fbc456319b2313cfe285f5"
 metafile = true
 
 [[files]]
+file = "mods/playeranimator.pw.toml"
+hash = "d6c0f05a4982b73b78910bd95f917bb8a934f4f233d218a3ccc22ea7ecc8bf55"
+metafile = true
+
+[[files]]
+file = "mods/playerrevive.pw.toml"
+hash = "b39d73e8ec9b4b15726560c1d906f3a3412f93d30ca63bf4ccd63da646e5e7a4"
+metafile = true
+
+[[files]]
 file = "mods/pluto.pw.toml"
 hash = "c90d1f76411f74e449eb7a170406303b8106b743e45d1dbb6641fd4e6f2702cd"
 metafile = true
@@ -234,6 +317,11 @@ metafile = true
 [[files]]
 file = "mods/quark.pw.toml"
 hash = "bb7589595dc071e855b768e7f1eb9c634a57003dd08544a39ad5f9f270637baa"
+metafile = true
+
+[[files]]
+file = "mods/reforgium.pw.toml"
+hash = "cde4bbc65f41da1ee94317ecd926e267fe9e9968d27148f7e70a3e01f6384677"
 metafile = true
 
 [[files]]
@@ -249,6 +337,11 @@ metafile = true
 [[files]]
 file = "mods/saturn.pw.toml"
 hash = "412518df24c3d4f2f9dc08e8061c239711d724568fd740f192dc797487c29aa0"
+metafile = true
+
+[[files]]
+file = "mods/server-tab-info.pw.toml"
+hash = "51e1688240dd89a1e03a600bc306bdfb24255042ea13ec773a05680c9a27a817"
 metafile = true
 
 [[files]]
@@ -269,6 +362,11 @@ metafile = true
 [[files]]
 file = "mods/smooth-boot-reloaded.pw.toml"
 hash = "9435f9fc89e8c694bfb896dbe51e1bb92955b37a2407da3a89b200afdf5c4b4e"
+metafile = true
+
+[[files]]
+file = "mods/smooth-chunk-save.pw.toml"
+hash = "7b34fbdf04e61cc4870d3c27cd995b4b6fb2b766eaa6cae539599c44a3ab76b8"
 metafile = true
 
 [[files]]
@@ -302,6 +400,26 @@ hash = "b49aeab89f0272bb8bbce57a78dfa561df908c5dcd320635a4736899f1e83e57"
 metafile = true
 
 [[files]]
+file = "mods/tetra.pw.toml"
+hash = "653e0d33a5ff0b1949e19ad36b271f9a81e628b8e4783c42e27a2bcbee6f1b96"
+metafile = true
+
+[[files]]
+file = "mods/tetranomicon.pw.toml"
+hash = "e23c10b32e16e7aac709571edf10f54cc1e11bbe8ae23c86a330a3ca84262401"
+metafile = true
+
+[[files]]
+file = "mods/tetras-delight.pw.toml"
+hash = "40f155a7a9d0999e4141720aec4e1d23c1019e17ae745b67975160006348984d"
+metafile = true
+
+[[files]]
+file = "mods/tetratic-combat.pw.toml"
+hash = "3b06afd1e63e37b80d4f769a15e327b9a573ab88e44766c464ae031079805676"
+metafile = true
+
+[[files]]
 file = "mods/textrues-rubidium-options.pw.toml"
 hash = "1ba3e9315a5ee826fcce1cebd79225a3860ab3cbf55f6d996ef33c367ddbd92b"
 metafile = true
@@ -314,6 +432,11 @@ metafile = true
 [[files]]
 file = "mods/vertical-slabs-compat.pw.toml"
 hash = "214a2f4e84d9399458a870398d7903167b233433c33d26a22a0286b3cb05614e"
+metafile = true
+
+[[files]]
+file = "mods/waystones.pw.toml"
+hash = "36cf2f1624de3bd30a8e5795ae43bfd2024d1952c1f0dca08a4568939333f7f5"
 metafile = true
 
 [[files]]
