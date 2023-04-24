@@ -54,11 +54,6 @@ hash = "6d494e07259ad63215a5057af1885d5fa47bd0986afe4a4e56e8b22e9c6b664f"
 metafile = true
 
 [[files]]
-file = "mods/art-of-forging-a-tetra-addon.pw.toml"
-hash = "3520ec5bccb708ccef9f875f3c2094226ce2c76a56b6457f2b12c84a41039826"
-metafile = true
-
-[[files]]
 file = "mods/autoreglib.pw.toml"
 hash = "2264acfbd388023f4c11b06b18e1a8b79b2b078e9fbf4cc38b31e4cb31c653dd"
 metafile = true
