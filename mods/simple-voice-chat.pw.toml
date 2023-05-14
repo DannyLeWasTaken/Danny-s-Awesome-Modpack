@@ -1,13 +1,13 @@
 name = "Simple Voice Chat"
-filename = "voicechat-forge-1.19.2-2.4.5.jar"
+filename = "voicechat-forge-1.19.2-2.4.7.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/9eGKb6K1/versions/kMyYv1np/voicechat-forge-1.19.2-2.4.5.jar"
+url = "https://cdn.modrinth.com/data/9eGKb6K1/versions/RXxZHMAW/voicechat-forge-1.19.2-2.4.7.jar"
 hash-format = "sha1"
-hash = "0638d2604be712d8b4ae078c7b2a8c30ebc37b08"
+hash = "2f219476aa529815f72509ccb14ce714877854f6"
 
 [update]
 [update.modrinth]
 mod-id = "9eGKb6K1"
-version = "kMyYv1np"
+version = "RXxZHMAW"
