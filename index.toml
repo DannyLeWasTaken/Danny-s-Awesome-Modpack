@@ -183,6 +183,11 @@ hash = "8efc269dee36af1fbcba2a0d29f697b710af95c11dcc466a1f4c514c24a2a47d"
 metafile = true
 
 [[files]]
+file = "mods/dungeon-bosses.pw.toml"
+hash = "2fa0603b7f46f208e5c222651189ed6bcf3b9cb4c5b15645926018ea3366e9bd"
+metafile = true
+
+[[files]]
 file = "mods/dynamic-view.pw.toml"
 hash = "67a2c58d47eb55966dfa6b7687d29997e0ea2b2ebd57e135305890a4995a9141"
 metafile = true
@@ -240,6 +245,11 @@ metafile = true
 [[files]]
 file = "mods/jade.pw.toml"
 hash = "25ec6d75fd9d733ebeb588f63f58c0c13fb90844d4a470537d81052d2ea0f1bc"
+metafile = true
+
+[[files]]
+file = "mods/jaopca.pw.toml"
+hash = "ca228304f1ea9a7d4cbc76bc28fc5625c94dfdf10fcdfdfef4f52efc8bacaca3"
 metafile = true
 
 [[files]]

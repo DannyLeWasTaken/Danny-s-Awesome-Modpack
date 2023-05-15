@@ -1,0 +1,13 @@
+name = "Dungeon Bosses"
+filename = "MCD Bosses 1.19.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "b4281812ce9ffbbb42c7f142d7c6cd264ae12eed"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4522134
+project-id = 857114
