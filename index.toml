@@ -288,6 +288,11 @@ hash = "ecaf5c678d92a4cfa57369fec17abd9e34c44bed705f1fcdd1eb1caa4a791a4d"
 metafile = true
 
 [[files]]
+file = "mods/miners-delight-plus.pw.toml"
+hash = "000aabd54b24f928786fecd1137e1743d5051e7a81d33c9faa37c1123ea9114c"
+metafile = true
+
+[[files]]
 file = "mods/moonlight.pw.toml"
 hash = "46a7f80745b4fbbb24603b68598242c7ae1e940c1d8cffc9ec146d8a7aca08a6"
 metafile = true
