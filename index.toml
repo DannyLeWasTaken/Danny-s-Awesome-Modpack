@@ -168,6 +168,11 @@ hash = "c5a04dc9e4256b4e96c97b14a3727ae1e0efdf46e48dd5446f2431e6f607da0b"
 metafile = true
 
 [[files]]
+file = "mods/cultural-delights.pw.toml"
+hash = "26f910b83926d321ca302168e4eff32063c497c88ab3b3d7cd31d32c80238274"
+metafile = true
+
+[[files]]
 file = "mods/curios.pw.toml"
 hash = "e6100fffd00b339e62efc3a6eaad54ca697b197813dff048d6dce2613676ef92"
 metafile = true
